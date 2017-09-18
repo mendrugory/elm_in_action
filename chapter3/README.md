@@ -1,5 +1,5 @@
 # Elm in Action
-## Chapter 2
+## Chapter 3
 In this chapter we embed a javascript code generated from Elm code in a html code.
 We have worked with the Elm Architecture in order to build a simple Photo Web App.
 
